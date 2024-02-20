@@ -1,8 +1,6 @@
 schemaVersion: 2.2.0
 metadata:
   generateName: northwind-traders
-attributes:
-  controller.devfile.io/storage-type: ephemeral
 components:
   - name: tools
     container:
